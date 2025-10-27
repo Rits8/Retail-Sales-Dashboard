@@ -1,0 +1,28 @@
+ Retail Sales Dashboard (Power BI)
+
+Overview
+
+This is my Power BI project based on the Sample Superstore dataset.  
+I used Excel for cleaning and Power BI for building an interactive dashboard that shows sales, profit, and quantity performance across different regions, categories, and segments.
+
+Tools Used
+- Microsoft Excel → Data cleaning and transformation  
+- Power BI → Data modeling, DAX measures, and visualization  
+
+Dashboard Highlights
+- KPIs: Total Sales, Total Profit, Orders, Quantity, and Profit Margin  
+- Visuals: Sales by Category, Profit by Region, Monthly Sales Trend  
+- Filters: Region, Category, and Segment slicers  
+
+Key Insights
+- Technology category drives the highest sales  
+- East region contributes the most profit  
+- Overall profit margin is around 13.5%  
+- Consistent sales growth across months  
+
+Files Included
+- Retail_Sales_Dashboard.pbix – Power BI dashboard  
+- Retail_Sales_Dashboard.xlsx – Cleaned dataset  
+- Sample - Superstore.csv – Original raw data  
+
+
